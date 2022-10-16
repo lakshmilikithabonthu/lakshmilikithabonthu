@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @likithabonthu
 - 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Python,Kali
+- 🌱 I’m currently learning Python
 - 💞️ I'm from Konaseema!
 - 📫 How to reach me likithabonthu17@gmail.com
 
